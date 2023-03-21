@@ -5,7 +5,7 @@ This is a collection of other stuff I've done online.
 
 ## Websites:
 
-[Olmo 雨果](www.olmomusic.co): A virtual space for my musical alter-ego (html, css)
+[Olmo 雨果](https://www.olmomusic.co): A virtual space for my musical alter-ego (html, css)
 
 
 ## Generative art:
